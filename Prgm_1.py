@@ -1,0 +1,2 @@
+a= mubashir
+print(a)
