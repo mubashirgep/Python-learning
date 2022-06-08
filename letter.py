@@ -4,9 +4,9 @@ letter = '''
 \tFrom: SSO-I on duty,
 \tSubject: BREAKDOWN on <FDR> feeder (CODE <CODE>),
 Respected Sir,
-\tIt is inform to your good office that <FDR> <CODE> is tripped off and relay showing <FLT> fault.
-After 5 minuts of delay try to close the VCB of <FDR> feeder it did not hold, try two more
-times but the same fault occours.
+\tIt is inform to your good office that <FDR> <CODE> feeder is tripped off and relay showing <FLT> fault.
+After 5 minuts of delay try to close the VCB of <FDR> feeder it did not hold, try to close two more
+times but the same <FLT> fault occours.
 Now declare the above mantioned feeder under breakdown and tag the B/D caution on VCB.
 Please depute your line staff to patrol the line and meet with the fault and resolve
 the metter on urgent basis.
